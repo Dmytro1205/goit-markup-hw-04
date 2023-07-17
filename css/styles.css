@@ -368,7 +368,7 @@ img {
   gap: 24px;
   padding-bottom: 120px;
   width: calc((100% - 120px) / 6);
-  margin: 0 ;
+  margin: 0;
 }
 .customers-link {
   width: 100%;
@@ -441,7 +441,7 @@ img {
   margin-bottom: 16px;
   margin-left: 40px;
 }
-.media-link{
+.media-link {
   margin-left: 120px;
 }
 .media-list {
